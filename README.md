@@ -1,1 +1,1 @@
-# Projects
+# Heart Disease Prediction Project
