@@ -1,1 +1,1 @@
-# Heart Disease Prediction Project
+# Multiple Heart Disease Prediction Project
